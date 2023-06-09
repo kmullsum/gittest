@@ -2,3 +2,4 @@ hello
 whats up
 yo
 conflict removed
+1line below
